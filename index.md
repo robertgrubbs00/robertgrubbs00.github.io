@@ -6,3 +6,5 @@ I am currently a sophomore at Catawba College. I am majoring in accounting and m
 
 ### Sports
 
+## Contact Me
+ragrubbs18@catawba.edu
